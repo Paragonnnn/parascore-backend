@@ -2,7 +2,7 @@ import express from 'express';
 import transfers from './transfers.js'; // Use ES6 import syntax
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.get('/transfers', async (req, res) => {
     console.log('Fetching transfers data...');
@@ -16,9 +16,7 @@ app.get('/transfers', async (req, res) => {
     }
 });
 
-app.get('/about', (req, res) => {
-    res.send('About Us');
-});
+
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);

@@ -12,5 +12,8 @@
   "dependencies": {
     "express": "^4.19.2",
     "puppeteer": "^22.14.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
   }
 }
