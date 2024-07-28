@@ -10,7 +10,7 @@ const transfers = async (pag) => {
         return pre
     });
     await browser.close();
-    return console.log(data);
+    return data
 }
 
 export default transfers;

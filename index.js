@@ -1,20 +1,29 @@
 import express from 'express';
 import transfers from './transfers.js'; // Use ES6 import syntax
+import cors from 'cors'
+
+
 
 const app = express();
+
+app.use(cors());
 const PORT = process.env.PORT || 3000;
 
 app.get('/transfers', async (req, res) => {
     console.log('Fetching transfers data...');
     try {
         const data = await transfers(2);
-        // res.send(`${data}`);
-        res.send('Transfers data fetched successfully');
+        
+        res.send(data);
+
+        // res.send('Transfers data fetched successfully');
 
     } catch (error) {
         res.status(500).send('Error fetching transfers data');
     }
 });
+
+
 
 
 
