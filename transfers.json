@@ -1,0 +1,3017 @@
+{
+  "transfers": [
+    {
+      "name": "Luca Klimowicz",
+      "playerId": 1575649,
+      "position": null,
+      "transferDate": "2024-07-26T07:53:19Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Instituto",
+      "fromClubId": 10090,
+      "toClub": "Imbabura S.C.",
+      "toClubId": 49572,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2024-12-31T00:00:00Z",
+      "marketValue": 30000
+    },
+    {
+      "name": "Fernando Prado",
+      "playerId": 1206631,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-26T07:49:45Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Racing Club",
+      "fromClubId": 10080,
+      "toClub": "Imbabura S.C.",
+      "toClubId": 49572,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "marketValue": 130000
+    },
+    {
+      "name": "Andrei Motoc",
+      "playerId": 1190280,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-26T07:41:56Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Salernitana",
+      "fromClubId": 6480,
+      "toClub": "Athens Kallithea FC",
+      "toClubId": 7975,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "marketValue": 250000
+    },
+    {
+      "name": "Andreas Karamanolis",
+      "playerId": 1289639,
+      "position": null,
+      "transferDate": "2024-07-26T07:36:31Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Doxa Katokopia",
+      "fromClubId": 88811,
+      "toClub": "Panserraikos FC",
+      "toClubId": 104814,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z",
+      "marketValue": 350000
+    },
+    {
+      "name": "Adrián Butzke",
+      "playerId": 1102246,
+      "position": {
+        "label": "CF",
+        "key": "centerforward_short"
+      },
+      "transferDate": "2024-07-26T07:15:55Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Vitoria de Guimaraes",
+      "fromClubId": 7844,
+      "toClub": "Nacional",
+      "toClubId": 10214,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 350000
+    },
+    {
+      "name": "Nikolay Poyarkov",
+      "playerId": 1057177,
+      "position": {
+        "label": "LB",
+        "key": "leftback_short"
+      },
+      "transferDate": "2024-07-26T07:00:55Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Rostov",
+      "fromClubId": 8705,
+      "toClub": "SKA-Khabarovsk",
+      "toClubId": 49700,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 280000
+    },
+    {
+      "name": "Mustapha Isah",
+      "playerId": 1411367,
+      "position": null,
+      "transferDate": "2024-07-26T06:12:28Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Randers FC",
+      "fromClubId": 8410,
+      "toClub": "Start",
+      "toClubId": 9919,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2024-12-31T00:00:00Z",
+      "marketValue": 250000
+    },
+    {
+      "name": "Danil Kapustyansky",
+      "playerId": 1450452,
+      "position": null,
+      "transferDate": "2024-07-26T05:44:29Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Orenburg",
+      "fromClubId": 132286,
+      "toClub": "Amkar-Perm",
+      "toClubId": 8681,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 60000
+    },
+    {
+      "name": "Gianluca Vigliotti",
+      "playerId": 0,
+      "position": {
+        "label": "AM",
+        "key": "centerattackingmidfielder_short"
+      },
+      "transferDate": "2024-07-26T05:04:02Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "SSC Napoli",
+      "fromClubId": 9875,
+      "toClub": "Cavese",
+      "toClubId": 6063,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z"
+    },
+    {
+      "name": "Pasquale Marranzino",
+      "playerId": 0,
+      "position": {
+        "label": "AM",
+        "key": "centerattackingmidfielder_short"
+      },
+      "transferDate": "2024-07-26T04:58:59Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "SSC Napoli",
+      "fromClubId": 9875,
+      "toClub": "Cavese",
+      "toClubId": 6063,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z"
+    },
+    {
+      "name": "Faniel Temesgen Tewelde",
+      "playerId": 1343446,
+      "position": {
+        "label": "LW",
+        "key": "leftwinger_short"
+      },
+      "transferDate": "2024-07-26T04:55:09Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Odd",
+      "fromClubId": 7988,
+      "toClub": "Lommel",
+      "toClubId": 6702,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 2500000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z",
+      "marketValue": 3000000
+    },
+    {
+      "name": "Josh O'Connor",
+      "playerId": 1342758,
+      "position": {
+        "label": "RW",
+        "key": "rightwinger_short"
+      },
+      "transferDate": "2024-07-26T04:04:20Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Hibernian",
+      "fromClubId": 10251,
+      "toClub": "Dundalk",
+      "toClubId": 1853,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2024-11-30T00:00:00Z",
+      "marketValue": 140000
+    },
+    {
+      "name": "Joe Hugill",
+      "playerId": 1113699,
+      "position": {
+        "label": "ST",
+        "key": "striker_short"
+      },
+      "transferDate": "2024-07-26T03:47:50Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Man United",
+      "fromClubId": 10260,
+      "toClub": "Wigan",
+      "toClubId": 8528,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-05-31T00:00:00Z",
+      "marketValue": 250000
+    },
+    {
+      "name": "Jonathan Clauss",
+      "playerId": 715301,
+      "position": {
+        "label": "RB",
+        "key": "rightback_short"
+      },
+      "transferDate": "2024-07-26T03:41:15Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Marseille",
+      "fromClubId": 8592,
+      "toClub": "Nice",
+      "toClubId": 9831,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 5000000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2026-06-30T00:00:00Z",
+      "marketValue": 18000000
+    },
+    {
+      "name": "Melle Meulensteen",
+      "playerId": 864893,
+      "position": {
+        "label": "DM",
+        "key": "centerdefensivemidfielder_short"
+      },
+      "transferDate": "2024-07-26T03:30:13Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Vitesse",
+      "fromClubId": 8277,
+      "toClub": "Sampdoria",
+      "toClubId": 9882,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z",
+      "marketValue": 1000000
+    },
+    {
+      "name": "Erick Castillo",
+      "playerId": 458861,
+      "position": {
+        "label": "CF",
+        "key": "centerforward_short"
+      },
+      "transferDate": "2024-07-26T03:25:33Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Vitoria",
+      "fromClubId": 7733,
+      "toClub": "Coritiba",
+      "toClubId": 9767,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2024-12-31T00:00:00Z",
+      "marketValue": 1800000
+    },
+    {
+      "name": "Marek Rodak",
+      "playerId": 605643,
+      "position": {
+        "label": "GK",
+        "key": "keeper"
+      },
+      "transferDate": "2024-07-26T01:27:10Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Free agent",
+      "fromClubId": 2,
+      "toClub": "Al-Ettifaq",
+      "toClubId": 101915,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-26T00:00:00Z",
+      "marketValue": 3500000
+    },
+    {
+      "name": "Hector Martinez",
+      "playerId": 892174,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T22:35:52Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "River Plate",
+      "fromClubId": 10076,
+      "toClub": "Inter Miami CF",
+      "toClubId": 960720,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-07-31T00:00:00Z",
+      "marketValue": 1700000
+    },
+    {
+      "name": "Victor Pálsson",
+      "playerId": 161937,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T22:26:20Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Eupen",
+      "fromClubId": 6351,
+      "toClub": "Plymouth",
+      "toClubId": 8401,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "marketValue": 360000
+    },
+    {
+      "name": "Patrick McNair",
+      "playerId": 575780,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T22:24:38Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "San Diego FC",
+      "fromClubId": -1,
+      "toClub": "West Brom",
+      "toClubId": 8659,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-26T00:00:00Z",
+      "toDate": "2024-12-31T00:00:00Z",
+      "marketValue": 3400000
+    },
+    {
+      "name": "Patrick McNair",
+      "playerId": 575780,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T22:23:36Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Middlesbrough",
+      "fromClubId": 8549,
+      "toClub": "San Diego FC",
+      "toClubId": -1,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2027-12-31T00:00:00Z",
+      "marketValue": 3400000
+    },
+    {
+      "name": "Carlos Gutierrez",
+      "playerId": 210413,
+      "position": null,
+      "transferDate": "2024-07-25T22:00:20Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "SD Huesca",
+      "fromClubId": 96925,
+      "toClub": "Zamora",
+      "toClubId": 4031,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 300000
+    },
+    {
+      "name": "Jetro Willems",
+      "playerId": 240205,
+      "position": {
+        "label": "LB",
+        "key": "leftback_short"
+      },
+      "transferDate": "2024-07-25T21:59:19Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Heracles",
+      "fromClubId": 9791,
+      "toClub": "Castellon",
+      "toClubId": 10279,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 400000
+    },
+    {
+      "name": "Santiago Arzamendia",
+      "playerId": 860661,
+      "position": {
+        "label": "LB",
+        "key": "leftback_short"
+      },
+      "transferDate": "2024-07-25T21:58:20Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Cadiz",
+      "fromClubId": 8385,
+      "toClub": "Estudiantes",
+      "toClubId": 10094,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 1400000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2027-12-31T00:00:00Z",
+      "marketValue": 1400000
+    },
+    {
+      "name": "Juan Sebastián",
+      "playerId": 1413145,
+      "position": {
+        "label": "LB",
+        "key": "leftback_short"
+      },
+      "transferDate": "2024-07-25T21:56:48Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Real Zaragoza",
+      "fromClubId": 8394,
+      "toClub": "Alcorcon",
+      "toClubId": 161750,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z"
+    },
+    {
+      "name": "Andre Lacximicant",
+      "playerId": 1254302,
+      "position": {
+        "label": "CF",
+        "key": "centerforward_short"
+      },
+      "transferDate": "2024-07-25T21:43:33Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Braga  B",
+      "fromClubId": -1,
+      "toClub": "Estoril",
+      "toClubId": 7842,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2028-06-30T00:00:00Z",
+      "marketValue": 450000
+    },
+    {
+      "name": "Felippe Cardoso",
+      "playerId": 916351,
+      "position": {
+        "label": "CF",
+        "key": "centerforward_short"
+      },
+      "transferDate": "2024-07-25T21:40:49Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Casa Pia AC",
+      "fromClubId": 212821,
+      "toClub": "Akhmat",
+      "toClubId": 8708,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 1500000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2028-06-30T00:00:00Z",
+      "marketValue": 800000
+    },
+    {
+      "name": "Gaius Makouta",
+      "playerId": 773062,
+      "position": {
+        "label": "CM",
+        "key": "centermidfielder_short"
+      },
+      "transferDate": "2024-07-25T21:35:55Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Free agent",
+      "fromClubId": 2,
+      "toClub": "Alanyaspor",
+      "toClubId": 4678,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z",
+      "marketValue": 3000000
+    },
+    {
+      "name": "Mikhail Ryadno",
+      "playerId": 1513114,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T18:49:25Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "CSKA",
+      "fromClubId": 9760,
+      "toClub": "Rodina",
+      "toClubId": 1066681,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2024-12-31T00:00:00Z",
+      "marketValue": 370000
+    },
+    {
+      "name": "Oliver McBurnie",
+      "playerId": 509151,
+      "position": {
+        "label": "CF",
+        "key": "centerforward_short"
+      },
+      "transferDate": "2024-07-25T18:45:31Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Sheff Utd",
+      "fromClubId": 8657,
+      "toClub": "Las Palmas",
+      "toClubId": 8306,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z",
+      "marketValue": 4700000
+    },
+    {
+      "name": "Benno Schmitz",
+      "playerId": 461359,
+      "position": {
+        "label": "RB",
+        "key": "rightback_short"
+      },
+      "transferDate": "2024-07-25T18:40:06Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Köln",
+      "fromClubId": 8722,
+      "toClub": "Grasshopper",
+      "toClubId": 9956,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z",
+      "marketValue": 1600000
+    },
+    {
+      "name": "Chidozie Awaziem",
+      "playerId": 666954,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T18:23:01Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Boavista",
+      "fromClubId": 8613,
+      "toClub": "Cincinnati",
+      "toClubId": 722265,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 500000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-12-31T00:00:00Z",
+      "marketValue": 3300000
+    },
+    {
+      "name": "Yayo",
+      "playerId": 1323483,
+      "position": {
+        "label": "CM",
+        "key": "centermidfielder_short"
+      },
+      "transferDate": "2024-07-25T17:04:57Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Real Oviedo",
+      "fromClubId": 8670,
+      "toClub": "Lugo",
+      "toClubId": 8206,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 300000
+    },
+    {
+      "name": "Riccardo Pagano",
+      "playerId": 1484827,
+      "position": null,
+      "transferDate": "2024-07-25T17:01:30Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Roma",
+      "fromClubId": 8686,
+      "toClub": "Catanzaro",
+      "toClubId": 10168,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 2000000
+    },
+    {
+      "name": "Zinho Vanheusden",
+      "playerId": 846608,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T16:37:50Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Inter",
+      "fromClubId": 8636,
+      "toClub": "KV Mechelen",
+      "toClubId": 8203,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 5200000
+    },
+    {
+      "name": "Niccolo Pierozzi",
+      "playerId": 1300387,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T16:34:12Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Fiorentina",
+      "fromClubId": 8535,
+      "toClub": "Palermo",
+      "toClubId": 8540,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 1000000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "marketValue": 1800000
+    },
+    {
+      "name": "Ezequiel Barco",
+      "playerId": 789068,
+      "position": {
+        "label": "LW",
+        "key": "leftwinger_short"
+      },
+      "transferDate": "2024-07-25T15:06:41Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "River Plate",
+      "fromClubId": 10076,
+      "toClub": "Spartak",
+      "toClubId": 8643,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 14000000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z",
+      "marketValue": 8500000
+    },
+    {
+      "name": "Mario Fernandes",
+      "playerId": 175642,
+      "position": {
+        "label": "RM",
+        "key": "rightmidfielder_short"
+      },
+      "transferDate": "2024-07-25T14:26:16Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Zenit",
+      "fromClubId": 8698,
+      "toClub": "Free agent",
+      "toClubId": 2,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "marketValue": 1300000
+    },
+    {
+      "name": "Felix Lohkemper",
+      "playerId": 416121,
+      "position": {
+        "label": "CF",
+        "key": "centerforward_short"
+      },
+      "transferDate": "2024-07-25T14:13:05Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "1.FC Nürnberg",
+      "fromClubId": 8165,
+      "toClub": "Waldhof Mannheim",
+      "toClubId": 9743,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "marketValue": 390000
+    },
+    {
+      "name": "Alexis Blin",
+      "playerId": 605848,
+      "position": {
+        "label": "CM",
+        "key": "centermidfielder_short"
+      },
+      "transferDate": "2024-07-25T14:08:59Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Lecce",
+      "fromClubId": 9888,
+      "toClub": "Palermo",
+      "toClubId": 8540,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 1500000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z",
+      "marketValue": 3000000
+    },
+    {
+      "name": "Felix Bacher",
+      "playerId": 951498,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T14:07:18Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Free agent",
+      "fromClubId": 2,
+      "toClub": "Estoril",
+      "toClubId": 7842,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2026-06-30T00:00:00Z",
+      "marketValue": 500000
+    },
+    {
+      "name": "Patrick Sequeira",
+      "playerId": 1237856,
+      "position": {
+        "label": "GK",
+        "key": "keeper"
+      },
+      "transferDate": "2024-07-25T14:05:34Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "UD Ibiza",
+      "fromClubId": 1123073,
+      "toClub": "Casa Pia AC",
+      "toClubId": 212821,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2026-06-30T00:00:00Z",
+      "marketValue": 400000
+    },
+    {
+      "name": "Martin Barragan",
+      "playerId": 494183,
+      "position": {
+        "label": "CF",
+        "key": "centerforward_short"
+      },
+      "transferDate": "2024-07-25T13:16:38Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Puebla",
+      "fromClubId": 7847,
+      "toClub": "Celaya",
+      "toClubId": 1839,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "marketValue": 500000
+    },
+    {
+      "name": "Carlos Salcedo",
+      "playerId": 431992,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T13:11:51Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Cruz Azul",
+      "fromClubId": 6578,
+      "toClub": "Free agent",
+      "toClubId": 2,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-22T00:00:00Z",
+      "marketValue": 2000000
+    },
+    {
+      "name": "David Ozoh",
+      "playerId": 1330872,
+      "position": {
+        "label": "DM",
+        "key": "centerdefensivemidfielder_short"
+      },
+      "transferDate": "2024-07-25T13:08:35Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Crystal Palace",
+      "fromClubId": 9826,
+      "toClub": "Derby",
+      "toClubId": 10170,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-05-31T00:00:00Z",
+      "marketValue": 750000
+    },
+    {
+      "name": "Filippo Pittarello",
+      "playerId": 1195358,
+      "position": {
+        "label": "CF",
+        "key": "centerforward_short"
+      },
+      "transferDate": "2024-07-25T12:25:53Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Cittadella",
+      "fromClubId": 6485,
+      "toClub": "Catanzaro",
+      "toClubId": 10168,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 550000
+    },
+    {
+      "name": "Mouhamadou Sarr",
+      "playerId": 620133,
+      "position": {
+        "label": "GK",
+        "key": "keeper"
+      },
+      "transferDate": "2024-07-25T12:18:52Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Cremonese",
+      "fromClubId": 7801,
+      "toClub": "Spezia",
+      "toClubId": 9881,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 280000
+    },
+    {
+      "name": "Michael Brouwer",
+      "playerId": 351869,
+      "position": {
+        "label": "GK",
+        "key": "keeper"
+      },
+      "transferDate": "2024-07-25T12:08:51Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Heracles",
+      "fromClubId": 9791,
+      "toClub": "FC Utrecht",
+      "toClubId": 9908,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2026-06-30T00:00:00Z",
+      "marketValue": 700000
+    },
+    {
+      "name": "Junior Brumado",
+      "playerId": 861811,
+      "position": {
+        "label": "CF",
+        "key": "centerforward_short"
+      },
+      "transferDate": "2024-07-25T12:04:30Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "FC Midtjylland",
+      "fromClubId": 8113,
+      "toClub": "Coritiba",
+      "toClubId": 9767,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 850000
+    },
+    {
+      "name": "Tete",
+      "playerId": 1039534,
+      "position": {
+        "label": "RW",
+        "key": "rightwinger_short"
+      },
+      "transferDate": "2024-07-25T11:31:39Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Galatasaray",
+      "fromClubId": 8637,
+      "toClub": "Panathinaikos",
+      "toClubId": 10200,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 4750000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2028-06-30T00:00:00Z",
+      "marketValue": 10000000
+    },
+    {
+      "name": "Mattia Aramu",
+      "playerId": 498247,
+      "position": {
+        "label": "AM",
+        "key": "centerattackingmidfielder_short"
+      },
+      "transferDate": "2024-07-25T11:29:21Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Genoa",
+      "fromClubId": 10233,
+      "toClub": "Mantova",
+      "toClubId": 9889,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 1700000
+    },
+    {
+      "name": "Marlon Mustapha",
+      "playerId": 1175942,
+      "position": {
+        "label": "ST",
+        "key": "striker_short"
+      },
+      "transferDate": "2024-07-25T11:28:17Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Como",
+      "fromClubId": 10171,
+      "toClub": "Greuther Fürth",
+      "toClubId": 8357,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 1000000
+    },
+    {
+      "name": "Pedro Carvalho",
+      "playerId": 0,
+      "position": {
+        "label": "AM",
+        "key": "centerattackingmidfielder_short"
+      },
+      "transferDate": "2024-07-25T11:25:59Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Cova da Piedade SAD",
+      "fromClubId": 9807,
+      "toClub": "Estoril",
+      "toClubId": 7842,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z"
+    },
+    {
+      "name": "Lucas Cardoso",
+      "playerId": 1294035,
+      "position": {
+        "label": "LM",
+        "key": "leftmidfielder_short"
+      },
+      "transferDate": "2024-07-25T11:22:40Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Cuiaba",
+      "fromClubId": 197815,
+      "toClub": "Grêmio Novorizontino SP",
+      "toClubId": 0,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-17T00:00:00Z",
+      "toDate": "2025-04-30T00:00:00Z",
+      "marketValue": 750000
+    },
+    {
+      "name": "Niccolò Nardi",
+      "playerId": 0,
+      "position": {
+        "label": "AM",
+        "key": "centerattackingmidfielder_short"
+      },
+      "transferDate": "2024-07-25T11:13:12Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Fiorentina",
+      "fromClubId": 8535,
+      "toClub": "AC Carpi",
+      "toClubId": 208931,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-15T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z"
+    },
+    {
+      "name": "Mattia Florio",
+      "playerId": 1322539,
+      "position": null,
+      "transferDate": "2024-07-25T11:02:28Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Hellas Verona",
+      "fromClubId": 9876,
+      "toClub": "Caldiero",
+      "toClubId": -1,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-18T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 150000
+    },
+    {
+      "name": "Denis Cazzadori",
+      "playerId": 1485378,
+      "position": null,
+      "transferDate": "2024-07-25T10:52:16Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Hellas Verona",
+      "fromClubId": 9876,
+      "toClub": "Caldiero",
+      "toClubId": -1,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-15T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 150000
+    },
+    {
+      "name": "Ludovic Ajorque",
+      "playerId": 471153,
+      "position": {
+        "label": "ST",
+        "key": "striker_short"
+      },
+      "transferDate": "2024-07-25T10:40:31Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Mainz",
+      "fromClubId": 9905,
+      "toClub": "Brest",
+      "toClubId": 8521,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 3500000
+    },
+    {
+      "name": "George Ilenikhena",
+      "playerId": 1431516,
+      "position": {
+        "label": "ST",
+        "key": "striker_short"
+      },
+      "transferDate": "2024-07-25T10:25:44Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Royal Antwerp",
+      "fromClubId": 9988,
+      "toClub": "Monaco",
+      "toClubId": 9829,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 17000000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "marketValue": 9500000
+    },
+    {
+      "name": "Mohammed Jahfali",
+      "playerId": 618289,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T09:37:15Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Al Hilal",
+      "fromClubId": 2529,
+      "toClub": "Al-Kholod",
+      "toClubId": -1,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-13T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 130000
+    },
+    {
+      "name": "Hamdan Al Shamrani",
+      "playerId": 844224,
+      "position": {
+        "label": "LB",
+        "key": "leftback_short"
+      },
+      "transferDate": "2024-07-25T09:34:36Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Al-Ettifaq",
+      "fromClubId": 101915,
+      "toClub": "Al-Kholod",
+      "toClubId": -1,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-13T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 860000
+    },
+    {
+      "name": "Kyan Vaesen",
+      "playerId": 1110376,
+      "position": {
+        "label": "ST",
+        "key": "striker_short"
+      },
+      "transferDate": "2024-07-25T09:29:32Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Westerlo",
+      "fromClubId": 10001,
+      "toClub": "Willem II",
+      "toClubId": 8525,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-25T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 750000
+    },
+    {
+      "name": "Abdullah Al Hawsawi",
+      "playerId": 1287476,
+      "position": {
+        "label": "RB",
+        "key": "rightback_short"
+      },
+      "transferDate": "2024-07-25T09:27:57Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Damac FC",
+      "fromClubId": 582823,
+      "toClub": "Al-Kholod",
+      "toClubId": -1,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-14T00:00:00Z",
+      "marketValue": 150000
+    },
+    {
+      "name": "Chukwubuikem Ikwuemesi",
+      "playerId": 1297995,
+      "position": {
+        "label": "ST",
+        "key": "striker_short"
+      },
+      "transferDate": "2024-07-25T09:25:44Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Salernitana",
+      "fromClubId": 6480,
+      "toClub": "OH Leuven",
+      "toClubId": 1773,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 1800000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z",
+      "marketValue": 1700000
+    },
+    {
+      "name": "Jesus Hernandez",
+      "playerId": 1288840,
+      "position": null,
+      "transferDate": "2024-07-25T08:57:05Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Elche Ilicitanc",
+      "fromClubId": -1,
+      "toClub": "Tijuana",
+      "toClubId": 162418,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z"
+    },
+    {
+      "name": "Abdoulaye N'Diaye",
+      "playerId": 1053676,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T08:50:08Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Troyes",
+      "fromClubId": 10242,
+      "toClub": "Brest",
+      "toClubId": 8521,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 2400000
+    },
+    {
+      "name": "Max Anderson",
+      "playerId": 1050300,
+      "position": {
+        "label": "CM",
+        "key": "centermidfielder_short"
+      },
+      "transferDate": "2024-07-25T08:48:47Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Dundee FC",
+      "fromClubId": 8284,
+      "toClub": "Crawley",
+      "toClubId": 8647,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2026-06-30T00:00:00Z",
+      "marketValue": 350000
+    },
+    {
+      "name": "Jesper Gregersen",
+      "playerId": 1315454,
+      "position": {
+        "label": "CM",
+        "key": "centermidfielder_short"
+      },
+      "transferDate": "2024-07-25T08:45:06Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Start",
+      "fromClubId": 9919,
+      "toClub": "Sarpsborg 08",
+      "toClubId": 8509,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 70000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2028-12-31T00:00:00Z",
+      "marketValue": 250000
+    },
+    {
+      "name": "Jack Grieves",
+      "playerId": 1365254,
+      "position": {
+        "label": "RB",
+        "key": "rightback_short"
+      },
+      "transferDate": "2024-07-25T08:35:36Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Watford",
+      "fromClubId": 9817,
+      "toClub": "Ross County",
+      "toClubId": 8649,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-05-31T00:00:00Z",
+      "marketValue": 30000
+    },
+    {
+      "name": "Benjamin Siegrist",
+      "playerId": 265006,
+      "position": {
+        "label": "GK",
+        "key": "keeper"
+      },
+      "transferDate": "2024-07-25T08:31:18Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Celtic",
+      "fromClubId": 9925,
+      "toClub": "Rapid Bucuresti",
+      "toClubId": 9738,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2026-06-30T00:00:00Z",
+      "marketValue": 600000
+    },
+    {
+      "name": "Toby Sibbick",
+      "playerId": 821400,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-25T08:28:08Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Hearts",
+      "fromClubId": 9860,
+      "toClub": "Wigan",
+      "toClubId": 8528,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2026-06-30T00:00:00Z",
+      "marketValue": 550000
+    },
+    {
+      "name": "Nando Toggenburger",
+      "playerId": 1402201,
+      "position": {
+        "label": "ST",
+        "key": "striker_short"
+      },
+      "transferDate": "2024-07-25T08:18:21Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Luzern",
+      "fromClubId": 10199,
+      "toClub": "FC Stade Lausanne-Ouchy",
+      "toClubId": 289334,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 110000
+    },
+    {
+      "name": "Cameron Elliott",
+      "playerId": 883712,
+      "position": {
+        "label": "CF",
+        "key": "centerforward_short"
+      },
+      "transferDate": "2024-07-25T08:16:36Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Dundalk",
+      "fromClubId": 1853,
+      "toClub": "East Kilbride FC",
+      "toClubId": -1,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "marketValue": 75000
+    },
+    {
+      "name": "Thomas McGill",
+      "playerId": 815080,
+      "position": {
+        "label": "GK",
+        "key": "keeper"
+      },
+      "transferDate": "2024-07-25T07:51:02Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Brighton",
+      "fromClubId": 10204,
+      "toClub": "MK Dons",
+      "toClubId": 8645,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-05-31T00:00:00Z",
+      "marketValue": 650000
+    },
+    {
+      "name": "Saidou Alioum",
+      "playerId": 1395204,
+      "position": null,
+      "transferDate": "2024-07-25T07:18:02Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Hammarby",
+      "fromClubId": 8248,
+      "toClub": "Omonia Nicosia",
+      "toClubId": 8044,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 600000
+    },
+    {
+      "name": "Cesar Perez",
+      "playerId": 1338317,
+      "position": {
+        "label": "CM",
+        "key": "centermidfielder_short"
+      },
+      "transferDate": "2024-07-25T07:14:05Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Union La Calera",
+      "fromClubId": 192435,
+      "toClub": "Defensa y Justicia",
+      "toClubId": 161730,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2028-06-30T00:00:00Z",
+      "marketValue": 2500000
+    },
+    {
+      "name": "Ian Poveda",
+      "playerId": 962075,
+      "position": {
+        "label": "RM",
+        "key": "rightmidfielder_short"
+      },
+      "transferDate": "2024-07-25T07:08:16Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Free agent",
+      "fromClubId": 2,
+      "toClub": "Sunderland",
+      "toClubId": 8472,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z",
+      "marketValue": 950000
+    },
+    {
+      "name": "Nicolas Quagliata",
+      "playerId": 1212175,
+      "position": {
+        "label": "LW",
+        "key": "leftwinger_short"
+      },
+      "transferDate": "2024-07-25T06:46:50Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "PAOK Thessaloniki FC",
+      "fromClubId": 8619,
+      "toClub": "Central Cordoba de Santiago",
+      "toClubId": 213596,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 850000
+    },
+    {
+      "name": "Luis Miguel Angulo",
+      "playerId": 1292829,
+      "position": {
+        "label": "RW",
+        "key": "rightwinger_short"
+      },
+      "transferDate": "2024-07-25T06:43:07Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Talleres",
+      "fromClubId": 10101,
+      "toClub": "Central Cordoba de Santiago",
+      "toClubId": 213596,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 550000
+    },
+    {
+      "name": "Ramiro Peralta",
+      "playerId": 1529716,
+      "position": null,
+      "transferDate": "2024-07-25T06:37:36Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Rosario Central",
+      "fromClubId": 10084,
+      "toClub": "Juventud de las Piedras",
+      "toClubId": -1,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "marketValue": 40000
+    },
+    {
+      "name": "Dario Sarmiento",
+      "playerId": 1095198,
+      "position": {
+        "label": "LW",
+        "key": "leftwinger_short"
+      },
+      "transferDate": "2024-07-25T06:16:55Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Man City",
+      "fromClubId": 8456,
+      "toClub": "Tigre",
+      "toClubId": 89396,
+      "fee": null,
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2026-12-31T00:00:00Z"
+    },
+    {
+      "name": "Abdulrahman Al-Safar",
+      "playerId": 1085333,
+      "position": {
+        "label": "CM",
+        "key": "centermidfielder_short"
+      },
+      "transferDate": "2024-07-25T06:02:06Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Al-Fayha",
+      "fromClubId": 582749,
+      "toClub": "Al-Kholod",
+      "toClubId": -1,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "marketValue": 280000
+    },
+    {
+      "name": "Moussa Diaby",
+      "playerId": 923498,
+      "position": {
+        "label": "CF",
+        "key": "centerforward_short"
+      },
+      "transferDate": "2024-07-24T23:18:18Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Aston Villa",
+      "fromClubId": 10252,
+      "toClub": "Al Ittihad",
+      "toClubId": 8577,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 60000000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2029-06-30T00:00:00Z",
+      "marketValue": 50000000
+    },
+    {
+      "name": "Mame Baba Thiam",
+      "playerId": 299358,
+      "position": {
+        "label": "LW",
+        "key": "leftwinger_short"
+      },
+      "transferDate": "2024-07-24T21:34:00Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Pendikspor",
+      "fromClubId": 95745,
+      "toClub": "Eyupspor",
+      "toClubId": -1,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2026-06-30T00:00:00Z",
+      "marketValue": 3000000
+    },
+    {
+      "name": "Adnan Januzaj",
+      "playerId": 449241,
+      "position": {
+        "label": "RW",
+        "key": "rightwinger_short"
+      },
+      "transferDate": "2024-07-24T21:32:09Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Sevilla",
+      "fromClubId": 8302,
+      "toClub": "Las Palmas",
+      "toClubId": 8306,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 2000000
+    },
+    {
+      "name": "Berna",
+      "playerId": 1282141,
+      "position": {
+        "label": "LW",
+        "key": "leftwinger_short"
+      },
+      "transferDate": "2024-07-24T21:30:46Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Boavista",
+      "fromClubId": 8613,
+      "toClub": "Felgueiras",
+      "toClubId": -1,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2026-06-30T00:00:00Z",
+      "marketValue": 350000
+    },
+    {
+      "name": "Daniel Selma",
+      "playerId": 1418748,
+      "position": null,
+      "transferDate": "2024-07-24T21:27:06Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Tenerife",
+      "fromClubId": 9867,
+      "toClub": "SD Amorebieta",
+      "toClubId": 189624,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 150000
+    },
+    {
+      "name": "Emir Ortakaya",
+      "playerId": 1209961,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-24T20:35:11Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Fenerbahçe",
+      "fromClubId": 8695,
+      "toClub": "Westerlo",
+      "toClubId": 10001,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 1200000
+    },
+    {
+      "name": "Elias Jelert",
+      "playerId": 1305787,
+      "position": {
+        "label": "RB",
+        "key": "rightback_short"
+      },
+      "transferDate": "2024-07-24T20:33:54Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "FC København",
+      "fromClubId": 8391,
+      "toClub": "Galatasaray",
+      "toClubId": 8637,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 5000000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2028-06-30T00:00:00Z",
+      "marketValue": 5700000
+    },
+    {
+      "name": "Pau Victor",
+      "playerId": 1159237,
+      "position": null,
+      "transferDate": "2024-07-24T20:29:32Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Girona",
+      "fromClubId": 7732,
+      "toClub": "Barcelona",
+      "toClubId": 8634,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 3000000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2029-06-30T00:00:00Z",
+      "marketValue": 2800000
+    },
+    {
+      "name": "Ali Jasim",
+      "playerId": 1478238,
+      "position": {
+        "label": "LW",
+        "key": "leftwinger_short"
+      },
+      "transferDate": "2024-07-24T19:26:08Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Free agent",
+      "fromClubId": 2,
+      "toClub": "Como",
+      "toClubId": 10171,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z",
+      "marketValue": 450000
+    },
+    {
+      "name": "Stefan Savic",
+      "playerId": 178955,
+      "position": {
+        "label": "CB",
+        "key": "centerback_short"
+      },
+      "transferDate": "2024-07-24T19:22:58Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Free agent",
+      "fromClubId": 2,
+      "toClub": "Trabzonspor",
+      "toClubId": 9752,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2027-06-30T00:00:00Z",
+      "marketValue": 2500000
+    },
+    {
+      "name": "Charles",
+      "playerId": 775266,
+      "position": {
+        "label": "LM",
+        "key": "leftmidfielder_short"
+      },
+      "transferDate": "2024-07-24T17:52:24Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "FC Midtjylland",
+      "fromClubId": 8113,
+      "toClub": "Corinthians",
+      "toClubId": 9808,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 1600000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2028-12-31T00:00:00Z",
+      "marketValue": 1300000
+    },
+    {
+      "name": "Joseph Ceesay",
+      "playerId": 754438,
+      "position": {
+        "label": "RM",
+        "key": "rightmidfielder_short"
+      },
+      "transferDate": "2024-07-24T17:44:30Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Malmö FF",
+      "fromClubId": 10237,
+      "toClub": "Cesena",
+      "toClubId": 9880,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 550000
+    },
+    {
+      "name": "Mathias Delorge",
+      "playerId": 1280741,
+      "position": {
+        "label": "CM",
+        "key": "centermidfielder_short"
+      },
+      "transferDate": "2024-07-24T17:37:49Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "St.Truiden",
+      "fromClubId": 9997,
+      "toClub": "Gent",
+      "toClubId": 9991,
+      "fee": {
+        "feeText": "fee",
+        "localizedFeeText": "transfer_fee",
+        "value": 3500000
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2028-06-30T00:00:00Z",
+      "marketValue": 5500000
+    },
+    {
+      "name": "Luka Tunjic",
+      "playerId": 0,
+      "position": {
+        "label": "AM",
+        "key": "centerattackingmidfielder_short"
+      },
+      "transferDate": "2024-07-24T17:32:45Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Holstein Kiel",
+      "fromClubId": 8150,
+      "toClub": "Fortuna Sittard",
+      "toClubId": 6422,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2026-06-30T00:00:00Z"
+    },
+    {
+      "name": "Remy Vita",
+      "playerId": 1178959,
+      "position": {
+        "label": "LB",
+        "key": "leftback_short"
+      },
+      "transferDate": "2024-07-24T17:28:00Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Fortuna Sittard",
+      "fromClubId": 6422,
+      "toClub": "Amiens",
+      "toClubId": 8587,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 550000
+    },
+    {
+      "name": "Mattijs Branderhorst",
+      "playerId": 245395,
+      "position": {
+        "label": "GK",
+        "key": "keeper"
+      },
+      "transferDate": "2024-07-24T17:24:33Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "FC Utrecht",
+      "fromClubId": 9908,
+      "toClub": "Fortuna Sittard",
+      "toClubId": 6422,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 650000
+    },
+    {
+      "name": "Mario Gargiulo",
+      "playerId": 461344,
+      "position": {
+        "label": "DM",
+        "key": "centerdefensivemidfielder_short"
+      },
+      "transferDate": "2024-07-24T17:21:42Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Modena",
+      "fromClubId": 9887,
+      "toClub": "Free agent",
+      "toClubId": 2,
+      "fee": {
+        "feeText": "free transfer",
+        "localizedFeeText": "transfer_type_free_transfer"
+      },
+      "transferType": {
+        "text": "contract",
+        "localizationKey": "contract"
+      },
+      "contractExtension": false,
+      "onLoan": false,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "marketValue": 860000
+    },
+    {
+      "name": "Jorge Moreno",
+      "playerId": 1288206,
+      "position": null,
+      "transferDate": "2024-07-24T16:37:58Z",
+      "transferText": [
+        null,
+        null,
+        null
+      ],
+      "fromClub": "Osasuna",
+      "fromClubId": 8371,
+      "toClub": "Cartagena",
+      "toClubId": 8554,
+      "fee": {
+        "feeText": "on loan",
+        "localizedFeeText": "on_loan"
+      },
+      "transferType": {
+        "text": "on loan",
+        "localizationKey": "on_loan"
+      },
+      "contractExtension": false,
+      "onLoan": true,
+      "fromDate": "2024-07-24T00:00:00Z",
+      "toDate": "2025-06-30T00:00:00Z",
+      "marketValue": 600000
+    }
+  ],
+  "hits": 2771
+}
