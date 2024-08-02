@@ -6,7 +6,7 @@
 </head>
 <body>
 
-    <h1>Parascore</h1>
+    <button>Fetch data</button>
     
 
     <script>
@@ -24,7 +24,8 @@
             }
           }
           
-          fetchData();
+          const btn = document.querySelector('button');
+          btn.addEventListener('click', fetchData());
           
         
         
