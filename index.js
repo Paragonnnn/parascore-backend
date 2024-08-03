@@ -13,11 +13,11 @@ const app = express();
 app.use(cors());
 const PORT = process.env.PORT || 3000;
 
-// app.get('/', async (req,res) => {
-//   res.send('Home')
-// })
+app.get('/', async (req,res) => {
+  res.send('Home')
+})
 
-app.get('/', async (req, res) => {
+app.get('/transfers', async (req, res) => {
   const topTransfers = req.query.topTransfers;
     console.log('Fetching transfers data...');
 
