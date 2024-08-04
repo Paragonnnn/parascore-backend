@@ -39,7 +39,8 @@ app.get('/transfers', async (req, res) => {
         console.log('Transfers data fetched successfully');
 
     } catch (error) {
-        res.status(500).send('Error fetching transfers data');
+        // res.status(500).send('Error fetching transfers data');
+        res.send(error);
     }
 });
 
