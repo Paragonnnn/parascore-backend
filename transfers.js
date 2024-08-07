@@ -1,5 +1,5 @@
 import puppeteer from 'puppeteer';
-require("dotenv").config();
+import 'dotenv/config';
 // const path = require('path');
 
 const transfers = async (pag) => {
